@@ -11,6 +11,7 @@ Project involves:
 5. Data driven insights
 
 Contributors
+
 @farrelkoh13
 @WongXiangRui
 @QuekWeiQuan
@@ -38,4 +39,5 @@ IT IS HARD TO PREDICT AND REQUIRE CONSISTENT MONITORING USE MACHINE LEARNING MOD
 WITH BETTER WEATHER PREDICTION AIRLINES CAN MAKE MORE INFORMED DECISIONS AND PILOTS CAN BE MORE WARY OF MORE SUITABLE FLIGHT PATHS
 
 What did we learn from this project?
+
 How to apply machine learning techniques such as random forest classifier to generate a better decision tree model and to identify which variables has the most significant impact on aviation flight incidents.
