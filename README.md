@@ -2,13 +2,14 @@
  
 About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on variables affecting aviation flight incident.  
-For detailed walkthrough, please view the source code in order from:
 
+Project involves:
 1. Data Extraction
 2. Data Cleaning
 3. Explorative Data Analysis
 4. Machine Learning with classifier tree and random forests
 5. Data driven insights
+
 Contributors
 @farrelkoh13
 @WongXiangRui
