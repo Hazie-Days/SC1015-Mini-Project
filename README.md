@@ -10,16 +10,16 @@ Project involves:
 4. Machine Learning with classifier tree and random forests
 5. Data driven insights
 
-Contributors
+#Contributors
 
 @farrelkoh13
 @WongXiangRui
-@QuekWeiQuan
+@William0498
 
-Problem Definition
+#Problem Definition
 To identify the factor that has the most impact on aviation incident.
 
-Which variables would be the best to predict it?
+#Which variables would be the best to predict it?
 1.Selected Data sets
 2.Event Date
 3.Location
@@ -32,12 +32,12 @@ Which variables would be the best to predict it?
 10.Broad phase of flight
 11.Investigation Type
 
-CONCLUSION
+#CONCLUSION
 
 WEATHER CONDITION HAS THE GREATEST IMPACT ON AVIATION INCIDENT
 IT IS HARD TO PREDICT AND REQUIRE CONSISTENT MONITORING USE MACHINE LEARNING MODELS TO BETTER PREDICT WEATHER CONDITIONS
 WITH BETTER WEATHER PREDICTION AIRLINES CAN MAKE MORE INFORMED DECISIONS AND PILOTS CAN BE MORE WARY OF MORE SUITABLE FLIGHT PATHS
 
-What did we learn from this project?
+#What did we learn from this project?
 
 How to apply machine learning techniques such as random forest classifier to generate a better decision tree model and to identify which variables has the most significant impact on aviation flight incidents.
