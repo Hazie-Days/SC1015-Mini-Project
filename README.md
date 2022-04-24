@@ -14,7 +14,7 @@
 5. Data driven insights
 
 ## Contributors
-- @farrelkoh13 - Machine learning, Statstical inference
+- @farrelkoh13 - Machine learning, Statistical inference
 - @WongXiangRui - Data analysis, Presenter 
 - @William0498 - Data cleaning, Problem formulation
 
